@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">Country Profile</string>
+
+    <string-array name="Country_Names">
+        <item>  Bangladesh</item>
+        <item> India</item>
+        <item>Pakistan</item>
+        <item>America</item>
+        <item> Australia</item>
+
+        <item>Japan</item>
+        <item>England</item>
+        <item>New Zealand</item>
+        <item>Sri Lanka</item>
+        <item>China</item>
+
+    </string-array>
+
+    <string-array name="country_details">
+        <item>
+            BANGLADESH\n
+            \n
+            Bangladesh is one of the world\'s most densely populated countries, with its people crammed into a delta of rivers that empties into the Bay of Bengal.
+            Poverty is deep and widespread, but Bangladesh has in recent years reduced population growth and improved health and education.
+            Formerly East Pakistan, Bangladesh came into being only in 1971, when the two parts of Pakistan split after a bitter war which drew in neighbouring India.
+            Bangladesh spent 15 years under military rule and, although democracy was restored in 1990, the political scene remains volatile.
+            Islamist extremism has been rising in the usually tolerant country.
+            The low-lying country is vulnerable to flooding and cyclones, and stands to be badly affected by any rises in sea levels.
+
+        </item>
+
+        <item>
+            INDIA\n
+            \n
+            The Republic of India (Hindi: भारत गणराज्य) is a country in Asia . It is at the center of South Asia . India has more than 1.2 billion (1,210,000,000) people, which is the second largest
+population in the world . It is the seventh largest country in the world by area and the largest country in South Asia . It is also the most populous
+democracy in the world.
+
+        </item>
+
+
+
+        <item>
+            PAKISTAN\n
+            \n
+            The Muslim-majority state of Pakistan was born out of the partition of the Indian sub-continent in 1947,and has faced both domestic political upheavals and regional confrontations.
+            Created to meet the demands of Indian Muslims for their own homeland, Pakistan was originally made up of two parts.
+            The east wing - present-day Bangladesh - is on the Bay of Bengal bordering India and Burma.
+            The west wing - present-day Pakistan - stretches from the Himalayas down to the Arabian Sea.
+            The break-up of the two wings came in 1971 when the Bengali-speaking east wing seceded with help from India.
+
+
+
+        </item>
+        <item>AMERICA\n
+            \n
+
+            The USA is the world's foremost economic and military power, with global interests and an unmatched global reach.
+            America's gross domestic product accounts for close to a quarter of the world total, and its military budgetis reckoned to be almost as much as the rest of the world's defence spending put together.
+            The country is also a major source of entertainment: American TV, Hollywood films, jazz, blues, rock andrap music are primary ingredients in global popular culture.
+            The United States originated in a revolution which separated it from the British Crown.
+            The constitution, drafted in 1787, established a federal system with a division of powers which has
+
+        </item>
+        <item> AUSTRALIA\n
+              \n
+            Australia ranks as one of the best countries to live in the world by international comparisons of wealth, education,health and quality of life. The sixth-largest country by land mass, its population is
+            comparatively small with most people living around the eastern and south-eastern coastlines.
+            The country's first inhabitants, the Aboriginal people, are believed to have migrated from Asia tens of thousandsof years before the arrival of British settlers in 1788. They now make up less than 3% of Australia's 23 million people.
+            Years of mass immigration after the Second World War heralded sweeping demographic changes, making modern Australia oneof the world's most multicultural countries. But migration continues to be a sensitive issue politically.
+            In shaping its foreign and economic policy, Australia first looked to Europe and the US but in the last 20 years hasdeveloped stronger ties with Asia. It has acted as peacekeeper in the region sending missions to Solomon Islands, East Timor and Papua New Guinea.
+            Although Australia remains part of the Commonwealth, the future role of the monarchy has been a recurring issue in politics.
+            An aging population, pressure on infrastructure and environmental concerns such as climate change are some of the
+            long-term challenges facing the country.
+
+
+        </item>
+
+        <item>JAPAN\n
+          \n
+            Japan : General Information and Facts
+Japan has the world's third-largest economy, a rich culture, and technical expertise. The country is seventy-five percent mountainous, with the other twenty-five percent being flat low lands. A comprehensive collection of islands makes up Japan which extends 3,000 kilometers from the north down to the south. There are four major islands Hokkaido, Honshu, Kyushu and Shikoku.
+Japan has four distinct seasons: spring, summer, autumn, and winter. Some of the most wonderful and picturesque scenery are the spring cherry blossoms and during the autumn season with the radiant red, orange, and yellow colored leaves.
+Find out the leading places to visit in Japan based on experiences from travelers throughout the world.
+
+
+
+
+        </item>
+        <item>ENGLAND\n
+            \n
+            The United Kingdom is a state made up of the historic countries of England, Wales and Scotland, as well as Northern Ireland.\n
+            It is known as the home of both modern parliamentary democracy and the Industrial Revolution.
+            Two world wars and the end of empire diminished its role in the 20th century, and the 2016 referendum\n
+            vote to leave the European Union has raised significant questions about the country's global role.
+            Nonetheless, the United Kingdom remains an economic and military power with great political \n
+            and cultural influence around the world.
+
+
+        </item>
+        <item>NEW ZEALAND\n
+          \n
+            New Zealand is a wealthy Pacific nation dominated by two cultural groups: New Zealanders of European descent;
+            and the Maori, the descendants of Polynesian settlers.
+            It is made up of two main islands and numerous smaller ones. Around three-quarters of the population
+            lives on the North Island, which is also home to the capital, Wellington.
+            Agriculture is the economic mainstay, but manufacturing and tourism are important. Visitors are drawn to the
+            glacier-carved mountains, lakes, beaches and thermal springs. Because of the islands' geographical
+            isolation, much of the flora and fauna is unique to the country.
+            New Zealand plays an active role in Pacific affairs. It has constitutional ties with the Pacific
+            territories of Niue, the Cook Islands and Tokelau
+
+
+        </item>
+        <item>SRI LANKA\n
+            \n
+
+            Lying off the southern tip of India, the tropical island of Sri Lanka has attracted visitors for
+            centuries with its natural beauty.
+            But it has been scarred by a long and bitter civil war arising out of ethnic tensions between the
+            majority Sinhalese and the Tamil minority in the northeast.
+            After more than 25 years of violence the conflict ended in May 2009, when government forces seized the
+            last area controlled by Tamil Tiger rebels. But recriminations over abuses by both sides continue.
+
+
+        </item>
+        <item>CHINA\n
+        \n
+            China is the world's most populous country. It has a continuous culture stretching back nearly 4,000 years and originated many of the foundations of the modern world.
+The People's Republic of China was founded in 1949 after the Communist Party defeated the nationalist Kuomintang, who retreated to Taiwan, creating two rival Chinese states - the People's Republic on the mainland and the Republic of China based on Taiwan.
+After stagnating for decades under the rigid totalitarian socialism of founder Mao Zedong, China reformed its economy along partly capitalist lines to make it one of the world's fastest-growing, as well its leading exporter. China is now a major overseas investor, and is pursuing an increasingly assertive foreign and defence policy.
+But economic change has not been matched by political reform, and the Communist Party retains a tight grip on political life and much of wider society.
+
+        </item>
+    </string-array>
+
+</resources>
